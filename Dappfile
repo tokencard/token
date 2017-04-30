@@ -1,0 +1,19 @@
+version: 0.0.1-dev
+tags: []
+layout:
+  sol_sources: ./src
+  build_dir: ./build
+  packages_directory: ./.dapple/packages/
+dependencies: {}
+ignore: []
+name: MonolithICO
+description: ''
+authors: []
+license: Apache-2.0
+keywords:
+  - dapple
+dapple_version: 0.8.39
+environments:
+  develop:
+    objects: {}
+    type: internal
